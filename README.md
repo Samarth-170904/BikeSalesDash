@@ -1,4 +1,4 @@
-Here's a Markdown-formatted version of your content, ideal for placing in a `README.md` file:
+
 
 ---
 
